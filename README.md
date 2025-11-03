@@ -21,5 +21,5 @@ Para ejecución local, clonar repositorio y:
 
 ```
 pip install -r requirements.txt
-streamlit run ./main.py       
+streamlit run ./Inicio.py
 ```
