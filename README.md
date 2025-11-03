@@ -13,6 +13,8 @@ Año: 2025
 
 El proyecto puede verse en ejecución en [recaudacion.streamlit.app](https://recaudacion.streamlit.app).
 
+Repositorio de [GitHub](https://github.com/SebaOgas/cd-recaudacion).
+
 ## Comandos útiles
 
 Para ejecución local, clonar repositorio y:
