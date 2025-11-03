@@ -11,7 +11,7 @@ Cátedra: Ciencia de Datos
 
 Año: 2025
 
-El proyecto puede verse en ejecución en [reca.streamlit.io](https://reca.streamlit.io).
+El proyecto puede verse en ejecución en [recaudacion.streamlit.app](https://recaudacion.streamlit.app).
 
 ## Comandos útiles
 
