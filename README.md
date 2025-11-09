@@ -15,6 +15,12 @@ El proyecto puede verse en ejecución en [recaudacion.streamlit.app](https://rec
 
 Repositorio de [GitHub](https://github.com/SebaOgas/cd-recaudacion).
 
+## Funcionamiento
+
+A partir de variables macroeconómicas desde 2008, se entrenó un modelo de Regresión de Bosque Aleatorio para predecir la recaudación.
+
+Dados los efectos de la inflación y la estacionalidad en la economía, las entradas usadas por el modelo son las variaciones interanuales de las variables económicas, así como el monto de la recaudación 12 meses antes del periodo a predecir.
+
 ## Comandos útiles
 
 Para ejecución local, clonar repositorio y:
